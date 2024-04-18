@@ -1,0 +1,8 @@
+langchain
+openai
+nbconvert
+python-dotenv
+langchain-openai
+chainlit
+uvicorn==0.25.0
+Flask==3.0.1

@@ -1,7 +1,10 @@
 # Icecream Store Chatbot
 
 ## Overview
-This repo contains the code for a custom chatbot that answers ice-cream-related questions and fetches information from a fictional ice-cream store's API. Using LangChain and OpenAI's text model, alongside a Flask web service, the chatbot can provide users with details on flavors, toppings, and store offers. Everything is put together with Chainlit for easy web application integration.
+This is a custom chatbot that answers ice-cream-related questions and fetches information from a fictional ice-cream store's API. Using LangChain and OpenAI's text model, alongside a Flask web service, the chatbot can provide users with details on flavors, toppings, and store offers. Everything is put together with Chainlit for easy web application integration.
+
+![Screenshot_IcecreamChatbot](https://github.com/sunithalv/Icecream-Store-Chatbot/assets/28974154/2bd84c4f-fd28-4b44-bc41-5b9494ae26c2)
+
 
 ## Getting Started
 
